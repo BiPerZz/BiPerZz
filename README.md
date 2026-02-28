@@ -10,12 +10,23 @@
 
 | Lenguaje / Tecnología | Nivel |
 |----------------------|-------|
-| Java                 | 🟢 Intermedio |
-| JavaScript           | 🟢 Intermedio |
+| Java                 | 🟢 Básico |
+| JavaScript           | 🟢 Básico |
 | PHP                  | 🟢 Intermedio |
 | HTML                 | 🟢 Intermedio |
 | CSS                  | 🟢 Intermedio |
 | MySQL                | 🟢 Intermedio |
+
+### Tecnologías
+
+#### 🌐 Frontend
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
+
+#### ⚙️ Backend
+![PHP](https://skillicons.dev/icons?i=php)
+
+#### 🗄️ Bases de datos
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
