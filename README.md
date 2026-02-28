@@ -1,16 +1,24 @@
-## Hi there 👋
+## ¡Buenas, soy Bernardo Hidalgo Pérez! 👋
 
-<!--
-**BiPerZz/BiPerZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web y estudiante apasionado por la programación y las nuevas tecnologías.  
+Actualmente estoy cursando **DAW (Desarrollo de Aplicaciones Web)** y anteriormente estudié **ASIR (Administración de Sistemas Informáticos en Red)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías y Herramientas
+
+| Lenguaje / Tecnología | Nivel |
+|----------------------|-------|
+| Java                 | 🟢 Intermedio |
+| JavaScript           | 🟢 Intermedio |
+| PHP                  | 🟢 Intermedio |
+| HTML                 | 🟢 Intermedio |
+| CSS                  | 🟢 Intermedio |
+| MySQL                | 🟢 Intermedio |
+
+---
+
+## 📫 Contacto
+
+- Email: [bernardohidalgoperez@gmail.com](mailto:bernardohidalgoperez@gmail.com)  
+- LinkedIn: [Bernardo Hidalgo Pérez](https://www.linkedin.com/in/bernardo-hidalgo-p%C3%A9rez-51b7772a2/)
