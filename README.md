@@ -1,7 +1,7 @@
 ## ¡Buenas, soy Bernardo Hidalgo Pérez! 👋
 
-<p align="center">💻 Desarrollador web y estudiante apasionado por la programación y las nuevas tecnologías.</p></b>
-<p align="center">Actualmente estoy cursando **DAW (Desarrollo de Aplicaciones Web)** y anteriormente estudié **ASIR (Administración de Sistemas Informáticos en Red)**.</p>
+<p align="center">💻 Desarrollador web y estudiante apasionado por la programación y las nuevas tecnologías.  
+Actualmente estoy cursando __DAW (Desarrollo de Aplicaciones Web)__ y anteriormente estudié __ASIR (Administración de Sistemas Informáticos en Red)__.</p>
 
 ---
 
