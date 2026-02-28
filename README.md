@@ -19,14 +19,11 @@
 
 ### Tecnologías
 
-#### 🌐 Frontend
-![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
+![Frontend](https://github-readme-tech-stack.vercel.app/img?title=Frontend&align=left&gap=20&stack=HTML5,CSS3,JavaScript,TailwindCSS,Angular)
 
-#### ⚙️ Backend
-![PHP](https://skillicons.dev/icons?i=php)
+![Backend](https://github-readme-tech-stack.vercel.app/img?title=Backend&align=left&gap=20&stack=Node.js,PHP,Python,Django)
 
-#### 🗄️ Bases de datos
-![MySQL](https://skillicons.dev/icons?i=mysql)
+![Databases](https://github-readme-tech-stack.vercel.app/img?title=Databases&align=left&gap=20&stack=MySQL,PostgreSQL)
 
 ---
 
