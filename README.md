@@ -1,4 +1,4 @@
-<h2 align="center">## ¡Buenas, soy Bernardo Hidalgo Pérez! 👋</h2>
+<h2 align="center">¡Buenas, soy Bernardo Hidalgo Pérez! 👋</h2>
 
 <p align="center">💻 Desarrollador web y estudiante apasionado por la programación y las nuevas tecnologías.<br>
 📖 Actualmente cursando <strong>DAW (Desarrollo de Aplicaciones Web)</strong>.<br> 
